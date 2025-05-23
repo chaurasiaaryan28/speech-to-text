@@ -8,4 +8,4 @@ __pycache__/
 dist/
 build/
 # Sensitive files
-stt_credentials.json
+# stt_credentials.json
